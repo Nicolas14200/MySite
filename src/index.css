@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Forum-Regular';
+    src: url('../fonts/Forum-Regular.ttf') format('woff2');
+}
+@font-face {
+    font-family: 'Avenir-Regular';
+    src: url('../fonts/Avenir-Regular.ttf') format('woff2');
+}
+@font-face {
+    font-family: 'JosefinSlab-Regular';
+    src: url('../fonts/JosefinSlab-Regular.ttf') format('woff2');
+  }
